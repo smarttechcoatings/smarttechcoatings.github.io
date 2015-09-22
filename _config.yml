@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/smarttechcoatings/smarttechcoatings.gi
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: info@smarttechcoatings.com
+  facebook: smarttechcoatings
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
-  linkedin:
+  linkedin: smarttech-coatings
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: SmarttechC
