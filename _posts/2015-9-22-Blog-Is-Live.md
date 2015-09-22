@@ -3,7 +3,7 @@ layout: post
 title: Smarttech Coatings blog is up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Our blog is live.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
