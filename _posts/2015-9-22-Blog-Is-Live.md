@@ -3,7 +3,7 @@ layout: post
 title: Smarttech Coatings blog is up and running!
 ---
 
-Our blog is live.
+Our blog is live. Welcome to our blog.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
