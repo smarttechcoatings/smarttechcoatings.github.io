@@ -3,8 +3,6 @@ layout: post
 title: Smarttech Coatings blog is up and running!
 ---
 
-Our blog is live. Welcome to our blog.
+We will be posting product updates, company news and other Smarttech Coatings content here.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+We are looking forward to seeing you frequent this blog for more information on our coating systems.
