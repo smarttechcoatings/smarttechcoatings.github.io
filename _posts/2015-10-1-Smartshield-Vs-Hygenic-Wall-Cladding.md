@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Polarcoat v.s. Hygenic Wall Cladding
+title: Polarcoat v.s. Hygienic Wall Cladding
 ---
 
 <p>The following is a quote from an article about the history of germ theory</p>
@@ -13,9 +13,9 @@ title: Polarcoat v.s. Hygenic Wall Cladding
 <cite>Jemima Hodkinson | http://bigpictureeducation.com/history-germ-theory</cite>
 </blockquote>
 
-<p>Every area of human life has been impacted by the weight of these discoveries. Construction is no exception. For as long as we have been aware the threat that microbes can pose, we have been trying to make our environments safer. The need for vigilance is only increased when the environment is connected to foods (I'm talking to you Pubs, Restaurants, Refrigeration Units and Food Distributors). One approach is to use hygenic wall cladding</p>
+<p>Every area of human life has been impacted by the weight of these discoveries. Construction is no exception. For as long as we have been aware the threat that microbes can pose, we have been trying to make our environments safer. The need for vigilance is only increased when the environment is connected to foods (I'm talking to you Pubs, Restaurants, Refrigeration Units and Food Distributors). One approach is to use hygienic wall cladding</p>
 
-<p>How does Polarcoat stack up against hygenic wall cladding? Well pretty well actually (otherwise we wouldn't be writing this). Consider the following three elements often required for hygenic wall cladding:</p>
+<p>How does Polarcoat stack up against hygienic wall cladding? Well pretty well actually (otherwise we wouldn't be writing this). Consider the following three elements often required for hygienic wall cladding:</p>
 
 <ul>
     <li>
