@@ -10,7 +10,7 @@ title: Polarcoat, Smartshield, and Prevention
 <cite><em>Benjamin Franklin</em></cite>
 </blockquote>
 
-<p>Microbial contamination costs are devestating (see the latest on Skipanon Brand Seafoods LLC and the enterprise wide recall because of FDA findings).</p>
+<p>Microbial contamination costs are devestating (<a href="http://www.foodmanufacturing.com/news/2015/10/skipanon-brand-seafoods-llc-recalls-all-seafood-canned-products-because-possible-health-risk?et_cid=4875205&et_rid=901342371&location=top">see the latest on Skipanon Brand Seafoods LLC and the enterprise wide recall because of FDA findings</a>).</p>
 
 <p> Polarcoat & Smartshield are two powerful products we offer to answer the microbial questions facing all companies in the food and beverage industry; from corporate distributors on the industrial level to local restaurants and pubs, Smarttech Coatings has a product suite to serve your company's best interests. An investment with Smarttech is an investment in the future security of your company.</p>
 
