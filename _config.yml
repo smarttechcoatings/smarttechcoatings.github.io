@@ -11,6 +11,8 @@ description: A product suite of innovative and highly advanced coatings
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/smarttechcoatings/smarttechcoatings.github.io/master/images/icon.png
 
+#URL base of images
+imageBase: https://raw.githubusercontent.com/smarttechcoatings/smarttechcoatings.github.io/master/images
 #
 # Flags below are optional
 #
